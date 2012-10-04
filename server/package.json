@@ -1,7 +1,7 @@
 {
   "name": "Foundit",
   "version": "0.4.6",
-  "author": "Nick Thompson <nct25@cornell.edu>",
+  "author": "Nick Thompson <ncthom91@gmail.com>",
   "description": "Web page indexing for the Foundit chrome extension.",
   "scripts": {
     "start": "node server.js"
